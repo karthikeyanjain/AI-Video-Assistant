@@ -77,5 +77,26 @@ You can run the example script with:
 ```bash
 python test.py
 ```
+
+## What I Learned
+
+Through this project, I learned how to:
+
+- Build an end-to-end AI pipeline using Python
+- Integrate speech-to-text, summarization, and extraction workflows
+- Use LLMs and retrieval-augmented generation for intelligent question answering
+- Connect AI models with a Streamlit-based user interface
+- Structure a project in a way that is suitable for GitHub and resume presentation
+
+## Future Scope
+
+Possible improvements for the project include:
+
+- Adding support for multi-language transcription and translation
+- Improving the UI with better file upload and result visualization
+- Adding user authentication and saved project history
+- Integrating with cloud storage or a database
+- Expanding the system for meeting analytics, speaker detection, and summaries by topic
+
 ## Author
 Karthikeyan Jain
