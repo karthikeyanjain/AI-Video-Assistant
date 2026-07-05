@@ -77,3 +77,5 @@ You can run the example script with:
 ```bash
 python test.py
 ```
+## Author
+Karthikeyan Jain
